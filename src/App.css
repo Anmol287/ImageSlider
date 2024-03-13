@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+.containerStyles {
+  width: 700px;
+  height: 400px;
+  margin: 0 auto;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+}
